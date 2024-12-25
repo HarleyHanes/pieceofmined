@@ -1,0 +1,10 @@
+{
+    "title": "Beaded Necklaces",
+    "price": "200,000",
+    "link": "listings/listing1/listing1.html",
+    "description": "This is a detailed description of Product 1.",
+    "images": [
+      "photos/listings/listing1/closeView.png",
+      "photos/listings/listing1/farView.png"
+      ]
+}

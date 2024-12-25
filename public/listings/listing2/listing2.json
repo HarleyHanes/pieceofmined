@@ -1,0 +1,11 @@
+{
+    "title":"Tiffany Stone Cabachon",
+    "price": "100,000",
+    "link": "listings/listing2/listing2.html",
+    "description": "This is a detailed description of Product 1.",
+    "images": [
+        "photos/listings/listing2/backViewBottom.png",
+        "photos/listings/listing2/backViewTop.png",
+        "photos/listings/listing2/frontView.png"
+    ]
+}
